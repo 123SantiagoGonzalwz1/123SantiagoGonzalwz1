@@ -34,6 +34,15 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual_studio" width="40" height="40"/> </a>
 </p>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github Estadísticas:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=123SantiagoGonzalwz1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/123SantiagoGonzalwz1)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=123SantiagoGonzalwz1&theme=material-palenight)](https://github.com/123SantiagoGonzalwz1)
+</div>
+
+----
+
 <h3 align="center">Contáctame:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/santiago-gonzález-bab0131b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago gonzalez" height="30" width="40" /></a>
