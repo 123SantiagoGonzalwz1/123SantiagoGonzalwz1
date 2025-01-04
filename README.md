@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/santiago-gonzález-bab0131b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago gonzalez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22413437/santiago-gonzález?tab=profile" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverFlow" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" height="30" width="40" /></a>
+<a href="https://no-country.slack.com/team/U07J6QX2X2B" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" height="30" width="40" /></a>
 <a href="https://instagram.com/santiagogonzalez8771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@santiagogonzalez8771" height="30" width="40" /></a>
 </p>
 
