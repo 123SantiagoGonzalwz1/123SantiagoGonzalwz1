@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="900" height="215"
+  viewBox="0 0 900 215"
+  role="img" aria-label="Resumen de actividad en GitHub">
+
+<style>
+  .fondo { fill: #101820; }
+  .tarjeta {
+    fill: #17232d;
+    stroke: #29404d;
+  }
+  .titulo {
+    fill: #39d0a5;
+    font: bold 19px monospace;
+  }
+  .valor {
+    fill: #e6edf3;
+    font: bold 31px monospace;
+  }
+  .texto {
+    fill: #a7b7c4;
+    font: 13px monospace;
+  }
+
+  @media (prefers-color-scheme: light) {
+    .fondo { fill: #ffffff; }
+    .tarjeta {
+      fill: #f4f8fa;
+      stroke: #d7e2e8;
+    }
+    .valor { fill: #17212b; }
+    .texto { fill: #526371; }
+  }
+</style>
+
+<rect class="fondo"
+  width="900" height="215" rx="14"/>
+
+<text class="titulo" x="28" y="35">
+  Resumen de actividad en GitHub
+</text>
+
+<rect class="tarjeta" x="28" y="55" width="260" height="105" rx="10"/>
+<text class="valor" x="46" y="105">25</text>
+<text class="texto" x="46" y="135">Repositorios públicos</text>
+<rect class="tarjeta" x="313" y="55" width="260" height="105" rx="10"/>
+<text class="valor" x="331" y="105">2</text>
+<text class="texto" x="331" y="135">Estrellas recibidas</text>
+<rect class="tarjeta" x="598" y="55" width="260" height="105" rx="10"/>
+<text class="valor" x="616" y="105">12</text>
+<text class="texto" x="616" y="135">Contribuciones en 2026</text>
+<text class="texto" x="28" y="185">Actualizado: 15/11/2026 16:40 UTC</text>
+
+</svg>

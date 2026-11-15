@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="900" height="212"
+  viewBox="0 0 900 212"
+  role="img" aria-label="Proyecto destacado">
+
+<style>
+  .fondo { fill: #101820; }
+  .tarjeta {
+    fill: #17232d;
+    stroke: #29404d;
+  }
+  .titulo {
+    fill: #39d0a5;
+    font: bold 19px monospace;
+  }
+  .valor {
+    fill: #e6edf3;
+    font: bold 31px monospace;
+  }
+  .texto {
+    fill: #a7b7c4;
+    font: 13px monospace;
+  }
+
+  @media (prefers-color-scheme: light) {
+    .fondo { fill: #ffffff; }
+    .tarjeta {
+      fill: #f4f8fa;
+      stroke: #d7e2e8;
+    }
+    .valor { fill: #17212b; }
+    .texto { fill: #526371; }
+  }
+</style>
+
+<rect class="fondo"
+  width="900" height="212" rx="14"/>
+
+<text class="titulo" x="28" y="35">
+  Proyecto destacado
+</text>
+
+
+    <rect class="tarjeta"
+      x="14" y="52" width="872" height="145"
+      rx="12"/>
+
+    <!-- Nombre del repositorio -->
+    <text class="titulo" x="35" y="83">
+      &gt; topoia
+    </text>
+
+    <!-- Descripción -->
+    <text class="texto" x="35" y="111">
+      Proyecto personal en desarrollo.
+    </text>
+
+    <text class="texto" x="35" y="130">
+      
+    </text>
+
+    <!-- Separador -->
+    <line x1="35" y1="145" x2="865" y2="145"
+      stroke="#29404d" stroke-width="1"/>
+
+    <!-- Metadatos -->
+    <text x="35" y="171"
+      fill="#42b8d5"
+      font-family="monospace"
+      font-size="14">
+      Python
+    </text>
+
+    <text x="285" y="171"
+      fill="#f0b35a"
+      font-family="monospace"
+      font-size="14">
+      ★ 0
+    </text>
+
+    <text class="texto" x="500" y="171">
+      Último push: 05/07/2026
+    </text>
+    
+
+</svg>

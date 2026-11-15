@@ -1,0 +1,13 @@
+{
+    "usuario": "123SantiagoGonzalwz1",
+    "proyectos_destacados": [
+        "topoia",
+        "portfolio",
+        "ventas-inventarios",
+        "compu-tienda",
+        "software-dictionary",
+        "task-traker"
+    ],
+    "excluir_forks": true,
+    "maximo_lenguajes": 6
+}

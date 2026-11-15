@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="900" height="267"
+  viewBox="0 0 900 267"
+  role="img" aria-label="Distribución de lenguajes">
+
+<style>
+  .fondo { fill: #101820; }
+  .tarjeta {
+    fill: #17232d;
+    stroke: #29404d;
+  }
+  .titulo {
+    fill: #39d0a5;
+    font: bold 19px monospace;
+  }
+  .valor {
+    fill: #e6edf3;
+    font: bold 31px monospace;
+  }
+  .texto {
+    fill: #a7b7c4;
+    font: 13px monospace;
+  }
+
+  @media (prefers-color-scheme: light) {
+    .fondo { fill: #ffffff; }
+    .tarjeta {
+      fill: #f4f8fa;
+      stroke: #d7e2e8;
+    }
+    .valor { fill: #17212b; }
+    .texto { fill: #526371; }
+  }
+</style>
+
+<rect class="fondo"
+  width="900" height="267" rx="14"/>
+
+<text class="titulo" x="28" y="35">
+  Distribución de lenguajes
+</text>
+
+<text class="texto" x="28" y="74">Python</text>
+<rect x="190" y="60" width="560" height="17" rx="5" fill="#263944"/>
+<rect x="190" y="60" width="512.4" height="17" rx="5" fill="#39d0a5"/>
+<text class="texto" x="775" y="74">91.5%</text>
+<text class="texto" x="28" y="106">C#</text>
+<rect x="190" y="92" width="560" height="17" rx="5" fill="#263944"/>
+<rect x="190" y="92" width="10.9" height="17" rx="5" fill="#42b8d5"/>
+<text class="texto" x="775" y="106">1.9%</text>
+<text class="texto" x="28" y="138">Java</text>
+<rect x="190" y="124" width="560" height="17" rx="5" fill="#263944"/>
+<rect x="190" y="124" width="8.3" height="17" rx="5" fill="#9b87f5"/>
+<text class="texto" x="775" y="138">1.5%</text>
+<text class="texto" x="28" y="170">HTML</text>
+<rect x="190" y="156" width="560" height="17" rx="5" fill="#263944"/>
+<rect x="190" y="156" width="8.0" height="17" rx="5" fill="#f0b35a"/>
+<text class="texto" x="775" y="170">1.4%</text>
+<text class="texto" x="28" y="202">JavaScript</text>
+<rect x="190" y="188" width="560" height="17" rx="5" fill="#263944"/>
+<rect x="190" y="188" width="4.8" height="17" rx="5" fill="#e879a8"/>
+<text class="texto" x="775" y="202">0.9%</text>
+<text class="texto" x="28" y="234">CSS</text>
+<rect x="190" y="220" width="560" height="17" rx="5" fill="#263944"/>
+<rect x="190" y="220" width="4.7" height="17" rx="5" fill="#82c26b"/>
+<text class="texto" x="775" y="234">0.8%</text>
+
+</svg>

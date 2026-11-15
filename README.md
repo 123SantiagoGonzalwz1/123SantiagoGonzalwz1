@@ -1,45 +1,97 @@
-<h1 align="center"><b>Hola, Soy Santiago González</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Soy Santiago González, desarrollador fullstack de 21 años enfocado al desarrollo web, responsivo y aprendiendo desarrollo en la nube. Responsable y con muchas ganas de aprender y crecer profesionalmente.</h3>
-
-### 👨🏻‍💻 &nbsp;Sobre mí
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-💡 &nbsp;Soy una persona que se destaca por su capacidad para trabajar en equipo y su aprendizaje autónomo.\
-🎓 &nbsp;Tecnológo en Análisis y Desarrollo de Software, próximo Ingeniero.\
-🌱 &nbsp;Estoy aprendiendo sobre .NET, c# y desarrollo web.\
-✍️ &nbsp;Aparte del mundo de desarrollo me encanta dibujar.\
-✉️ &nbsp;Pueden comunicarse conmigo a este correo oscarsantiagogonzalezforero@gmail.com, si mi perfil es de su interes.
-
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material_ui" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual_studio" width="40" height="40"/> </a>
-</p>
-
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Estadísticas:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=123SantiagoGonzalwz1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/123SantiagoGonzalwz1)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=123SantiagoGonzalwz1&theme=material-palenight)](https://github.com/123SantiagoGonzalwz1)
+# Santiago González
+
+### Desarrollador de Software Full Stack
+
+`123santiagogonzalwz1@github:~$`
+
+**Desarrollo web · Arquitectura de Software · Automatización**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-181717?style=flat-square&logo=github)](https://github.com/123santiagogonzalwz1)
 </div>
 
-----
+---
 
-<h3 align="center">Contáctame:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/santiago-gonzález-bab0131b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago gonzalez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22413437/santiago-gonzález?tab=profile" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverFlow" height="30" width="40" /></a>
-<a href="https://no-country.slack.com/team/U07J6QX2X2B" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" height="30" width="40" /></a>
-<a href="https://instagram.com/santiagogonzalez8771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@santiagogonzalez8771" height="30" width="40" /></a>
-</p>
+## Sobre mí
+
+Soy desarrollador de software, enfocado en crear aplicaciones funcionales, eficientes y mantenibles.
+
+Me interesa el desarrollo Full Stack, la arquitectura de sistemas, las bases de datos y el aprendizaje continuo de nuevas tecnologías.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+- **Enfoque:** desarrollo web y soluciones empresariales.
+- **Lenguajes:** Python, C#, JavaScript y Java.
+- **Actualmente:** fortaleciendo mis conocimientos en desarrollo de software.
+- **Objetivo:** construir soluciones escalables y de calidad.
+
+---
+
+## Lenguajes de Programación
+
+`123santiagogonzalwz1@github:~$ consultar-lenguajes`
+
+<!-- LENGUAJES:INICIO -->
+<div align="center">
+<img src="./assets/lenguajes.svg" alt="Lenguajes de programación" width="100%">
+</div>
+<!-- LENGUAJES:FIN -->
+
+---
+
+## Estadísticas de GitHub
+
+`123santiagogonzalwz1@github:~$ consultar-estadisticas`
+
+<!-- ESTADISTICAS:INICIO -->
+<div align="center">
+<img src="./assets/estadisticas.svg" alt="Estadísticas de GitHub" width="100%">
+</div>
+<!-- ESTADISTICAS:FIN -->
+
+---
+
+## Proyectos destacados
+
+Estos son algunos de mis proyectos personales y de aprendizaje
+
+<!-- PROYECTOS:INICIO -->
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/topoia"><img src="./assets/proyectos/topoia-f944f308.svg" alt="Proyecto topoia" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/portfolio"><img src="./assets/proyectos/portfolio-0e6a8e0b.svg" alt="Proyecto portfolio" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/ventas-inventarios"><img src="./assets/proyectos/ventas-inventarios-4ea6bab6.svg" alt="Proyecto ventas-inventarios" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/compu-tienda"><img src="./assets/proyectos/compu-tienda-708fca04.svg" alt="Proyecto compu-tienda" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/software-dictionary"><img src="./assets/proyectos/software-dictionary-0b1add01.svg" alt="Proyecto software-dictionary" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/task-traker"><img src="./assets/proyectos/task-traker-d384278f.svg" alt="Proyecto task-traker" width="100%"/></a></td>
+</tr>
+</table>
+<!-- PROYECTOS:FIN -->
+
+---
+
+## Actividad y contribuciones
+
+`123santiagogonzalwz1@github:~$ consultar-contribuciones`
+
+<!-- CONTRIBUCIONES:INICIO -->
+<div align="center">
+<img src="./assets/contribuciones.svg" alt="Calendario de contribuciones" width="100%">
+</div>
+<!-- CONTRIBUCIONES:FIN -->
+
+## Colaboremos
+
+Si alguno de mis proyectos te resulta interesante, puede explorar su código, proponer mejoras, reportar problemas o contribuir directamente.
+
+<div align="center">
+
+**_Siempre aprendiendo, siempre construyendo._**
+
+[Explorar mis repositorios](https://github.com/123santiagogonzalwz1?tab=repositories)
+
+</div>
