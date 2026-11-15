@@ -1,10 +1,12 @@
+
 name: Actualizar perfil de GitHub
 
-on: 
+on:
   schedule:
+    # Todos los días a las 06:15 UTC
     - cron: "15 6 * * *"
-  
-  workflow_dispatch: 
+
+  workflow_dispatch:
 
   push:
     branches:
@@ -23,13 +25,13 @@ concurrency:
 
 jobs:
   actualizar:
-    name: "Actualizar estadísticas y README"
+    name: Actualizar estadísticas y README
     runs-on: ubuntu-latest
 
     steps:
       - name: Obtener repositorio
         uses: actions/checkout@v4
-      
+
       - name: Instalar Python
         uses: actions/setup-python@v5
         with:
@@ -38,8 +40,8 @@ jobs:
       - name: Generar estadísticas
         env:
           PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
-        run: python scripts/actualizar-perfil.py
-      
+        run: python scripts/actualizar_perfil.py
+
       - name: Publicar cambios
         run: |
           git config user.name "github-actions[bot]"
