@@ -42,7 +42,7 @@
 
 <text class="texto" x="28" y="74">Python</text>
 <rect x="190" y="60" width="560" height="17" rx="5" fill="#263944"/>
-<rect x="190" y="60" width="512.4" height="17" rx="5" fill="#39d0a5"/>
+<rect x="190" y="60" width="512.5" height="17" rx="5" fill="#39d0a5"/>
 <text class="texto" x="775" y="74">91.5%</text>
 <text class="texto" x="28" y="106">C#</text>
 <rect x="190" y="92" width="560" height="17" rx="5" fill="#263944"/>
@@ -54,7 +54,7 @@
 <text class="texto" x="775" y="138">1.5%</text>
 <text class="texto" x="28" y="170">HTML</text>
 <rect x="190" y="156" width="560" height="17" rx="5" fill="#263944"/>
-<rect x="190" y="156" width="8.0" height="17" rx="5" fill="#f0b35a"/>
+<rect x="190" y="156" width="7.9" height="17" rx="5" fill="#f0b35a"/>
 <text class="texto" x="775" y="170">1.4%</text>
 <text class="texto" x="28" y="202">JavaScript</text>
 <rect x="190" y="188" width="560" height="17" rx="5" fill="#263944"/>
