@@ -1,6 +1,6 @@
 <div align="center">
 
-# Santiago González
+# Oscar Santiago González Forero
 
 ### Desarrollador de Software Full Stack
 
