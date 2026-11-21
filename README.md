@@ -58,16 +58,16 @@ Estos son algunos de mis proyectos personales y de aprendizaje
 <!-- PROYECTOS:INICIO -->
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/topoia"><img src="./assets/proyectos/topoia-f944f308.svg" alt="Proyecto topoia" width="100%"/></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/portfolio"><img src="./assets/proyectos/portfolio-0e6a8e0b.svg" alt="Proyecto portfolio" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/SantiagoG05/topoia"><img src="./assets/proyectos/topoia-f944f308.svg" alt="Proyecto topoia" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/SantiagoG05/portfolio"><img src="./assets/proyectos/portfolio-0e6a8e0b.svg" alt="Proyecto portfolio" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/ventas-inventarios"><img src="./assets/proyectos/ventas-inventarios-4ea6bab6.svg" alt="Proyecto ventas-inventarios" width="100%"/></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/compu-tienda"><img src="./assets/proyectos/compu-tienda-708fca04.svg" alt="Proyecto compu-tienda" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/SantiagoG05/ventas-inventarios"><img src="./assets/proyectos/ventas-inventarios-4ea6bab6.svg" alt="Proyecto ventas-inventarios" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/SantiagoG05/compu-tienda"><img src="./assets/proyectos/compu-tienda-708fca04.svg" alt="Proyecto compu-tienda" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/software-dictionary"><img src="./assets/proyectos/software-dictionary-0b1add01.svg" alt="Proyecto software-dictionary" width="100%"/></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/123SantiagoGonzalwz1/task-traker"><img src="./assets/proyectos/task-traker-d384278f.svg" alt="Proyecto task-traker" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/SantiagoG05/software-dictionary"><img src="./assets/proyectos/software-dictionary-0b1add01.svg" alt="Proyecto software-dictionary" width="100%"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/SantiagoG05/task-traker"><img src="./assets/proyectos/task-traker-d384278f.svg" alt="Proyecto task-traker" width="100%"/></a></td>
 </tr>
 </table>
 <!-- PROYECTOS:FIN -->
